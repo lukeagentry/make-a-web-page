@@ -1,0 +1,19 @@
+body{
+  padding: 5px; margin: 5px; font-family: arial; margin:0 auto;
+}
+h1 {
+  font-style: italic; text-align: center; font-style: oblique; color: black; 
+}
+ul {
+  font-size: 20px; line-height: 40px; text-align: center; list-style-type: none;
+}
+li {
+list-style-type: none;  
+}
+div{
+  border-radius: 15px; padding: 5px; margin: 5px; background-color:grey;}
+h3 {
+  font-size: 20px; text-align: center; font-style: oblique; color: white;
+}
+p{border-radius: 15px; padding: 5px; margin: 5px;
+  }
